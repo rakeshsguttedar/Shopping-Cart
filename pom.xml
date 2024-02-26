@@ -107,15 +107,14 @@
             <version>2.1.4</version>
         </dependency>
     </dependencies>
-
-         <distributionManagement>
+    <distributionManagement>
         <repository>
             <id>maven-releases</id>
-            <url>http://13.235.33.220:8081/repository/maven-releases/</url>
+            <url>http://75.101.238.109:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>maven-snapshots</id>
-            <url>http://13.235.33.220:8081/repository/maven-snapshots/</url>
+            <url>http://75.101.238.109:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 
